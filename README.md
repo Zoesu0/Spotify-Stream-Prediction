@@ -1,5 +1,6 @@
 # Spotify-Stream-Prediction
 In this project, we try to use different time series model to predict Spotify Streams to see if we can see the trend of songs.
+We getting data from Kaggle, and we use 2017 Spotify Stream data.
 
 # Total Stream Prediction
 We first want to predict the total streams so that we can know the ideal day and month to release a new song.
@@ -21,6 +22,11 @@ Later we try a different way LSTM
 We later decide to predict a single song, since Shape of You publish on January 7, 2017, we think that the song is a good target to predict.
 
 ![image](https://github.com/Zoesu0/Spotify-Stream-Prediction/assets/122922541/bf196a1e-53fa-4413-9910-426624b46cdd)
+
+
+## Dataset:
+https://www.kaggle.com/datasets/edumucelli/spotifys-worldwide-daily-song-ranking
+https://www.kaggle.com/datasets/nadintamer/top-tracks-of-2017
 
 ## SARIMA
 ![image](https://github.com/Zoesu0/Spotify-Stream-Prediction/assets/122922541/bf196a1e-53fa-4413-9910-426624b46cdd)
