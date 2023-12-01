@@ -24,10 +24,6 @@ We later decide to predict a single song, since Shape of You publish on January 
 ![image](https://github.com/Zoesu0/Spotify-Stream-Prediction/assets/122922541/bf196a1e-53fa-4413-9910-426624b46cdd)
 
 
-## Dataset:
-https://www.kaggle.com/datasets/edumucelli/spotifys-worldwide-daily-song-ranking
-https://www.kaggle.com/datasets/nadintamer/top-tracks-of-2017
-
 ## SARIMA
 ![image](https://github.com/Zoesu0/Spotify-Stream-Prediction/assets/122922541/bf196a1e-53fa-4413-9910-426624b46cdd)
 ![image](https://github.com/Zoesu0/Spotify-Stream-Prediction/assets/122922541/3d61cf2c-2c72-4986-aadd-76c159f6aa64)
@@ -35,3 +31,8 @@ https://www.kaggle.com/datasets/nadintamer/top-tracks-of-2017
 ## LSTM
 ![image](https://github.com/Zoesu0/Spotify-Stream-Prediction/assets/122922541/3c2bd4d6-8603-4776-a3ac-5e00027c7ae4)
 
+
+
+## Dataset:
+https://www.kaggle.com/datasets/edumucelli/spotifys-worldwide-daily-song-ranking
+https://www.kaggle.com/datasets/nadintamer/top-tracks-of-2017
